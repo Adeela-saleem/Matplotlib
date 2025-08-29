@@ -25,13 +25,21 @@ For example, imagine a company has monthly sales data for thousands of products.
 ## 📌 Types of Visualizations Covered
 
 ✔ **Line Plot** → show trends over time (e.g., sales growth, temperature changes).
+
 ✔ **Scatter Plot** → show relationship between two variables (e.g., height vs. weight).
+
 ✔ **Bar Graph** → compare categories (e.g., profit by region).
+
 ✔ **Stem Plot** → highlight values for particular points.
+
 ✔ **Step Plot** → good for step-wise data like electricity usage in slabs.
+
 ✔ **Histogram** → show frequency/distribution of values (e.g., exam scores).
+
 ✔ **Box Plot** → summarize data spread (min, max, median, quartiles).
+
 ✔ **Pie Chart** → show proportions (e.g., market share of companies).
+
 ✔ **Fill Between (Area Plot)** → represent area covered between upper & lower limits (e.g., uncertainty in predictions).
 
 ---
@@ -64,7 +72,7 @@ python line_plot.py
 ## 📝 Notes
 
 * This repo will be **updated daily** with small projects and visualizations.
-* Each update will explain **one new type of plot** in simple language with examples.
+* Each update will explain **one new type of plot**  with examples.
 * Goal is to **learn by practice** and make data analysis easier.
 
 ---
